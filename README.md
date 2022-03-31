@@ -1,3 +1,4 @@
-## App-de-agendamento_tattoo
-**Criado em React Native **
+## App-de-agendamento-tattoo
+
+**Criado em React Native**
 
