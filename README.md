@@ -33,8 +33,7 @@ NODE.js, expo.
 ![Capturar](https://user-images.githubusercontent.com/80328167/173208051-876da9c8-10f0-49f7-8996-6c8fe64cf0da.PNG)
 ### Pagina home
 ![Capturar](https://user-images.githubusercontent.com/80328167/135344511-4ead1f38-e58d-4b79-b11a-da71a8b91bc4.PNG)
-### Pagina Sobre nós
-![Capturarl](https://user-images.githubusercontent.com/80328167/173208054-f8e8d1a3-6d76-4cb4-a404-26ad7826fb7a.PNG)
+
 ### Pagina de cadastro 1
 
 ![Capturarc](https://user-images.githubusercontent.com/80328167/173208053-c4cd5688-756a-45e1-9213-4efcad12ed96.PNG)
