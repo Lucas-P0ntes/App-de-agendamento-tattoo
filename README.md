@@ -1,6 +1,6 @@
 # App de agendamento tattoo
 
-# Help impostos
+
 <h4 align="center"> 
 	🚧  Status: 🚫Descontinuado  🚧
 </h4>
