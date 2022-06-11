@@ -24,7 +24,7 @@ NODE.js, expo.
 2-Depos de um "expo start"
 3-Utilize um celular para vizualizar o aplicativo.
 
-## Algumas Imgens do site :
+## Algumas Imgens do app :
 
 ### wellcome
 ![New age Tatto](https://user-images.githubusercontent.com/80328167/173208050-c6afa08b-6c30-4531-bb44-35055a3911a4.PNG)
