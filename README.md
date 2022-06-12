@@ -1,5 +1,4 @@
 
-# App_-de_adendameto_tattoo
 
 # App de agendamento tattoo
 
