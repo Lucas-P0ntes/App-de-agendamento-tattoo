@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # App_-de_adendameto_tattoo
-=======
+
 # App de agendamento tattoo
 
 
@@ -47,4 +47,4 @@ NODE.js, expo.
 ### Pagina de cadastro 4
 ![ll](https://user-images.githubusercontent.com/80328167/173208049-d33abf65-7e42-45e1-ab16-a24c6990d1e3.PNG)
 
->>>>>>> a8b0b45aec7a4c562bd3974d538ba1bc36ca4532
+
