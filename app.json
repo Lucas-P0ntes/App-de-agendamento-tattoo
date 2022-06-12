@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "expo": {
     "name": "NewApp",
     "slug": "NewApp",
@@ -32,3 +33,8 @@
     }
   }
 }
+=======
+  "name": "myproject",
+  "displayName": "myproject"
+}
+>>>>>>> a8b0b45aec7a4c562bd3974d538ba1bc36ca4532
